@@ -11,7 +11,7 @@ public class Grid {
 
     private Cell[][] cells;
 
-
+    //GridReader and GridWriter added to project
     private GridReader gridReader = new GridReader();
     private GridWriter gridWriter = new GridWriter();
 
