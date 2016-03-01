@@ -5,6 +5,7 @@ import static com.wakaleo.gameoflife.domain.Cell.LIVE_CELL;
 
 public class Grid {
 
+    //Comment added to project
     private static final int DEFAULT_ROW_COUNT = 3;
     private static final int DEFAULT_COLUMN_COUNT = 3;
 
